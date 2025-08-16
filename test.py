@@ -1,5 +1,7 @@
 #피보나치 수의 나열
 #n번째 fibo는 뭐냐?
+#zzzzㅋㅋㅋㅋ
+
 
 def fibo(n):
     if n == 1:
